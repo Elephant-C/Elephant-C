@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elephant-C(Yujie Cao)
-- 🌱 I’m currently a PhD student from Tongji University and a joint PhD student of University of Cambridge
+- 🌱 I’m currently a PhD student from Tongji University and visiting University of Cambridge
 - 👀 I’m interested in LiDAR remote sensing and deep learning techniques
 - 📫 You can reach me via email (caoyujie@tongji.edu.cn / yc547@cam.ac.uk)
 
