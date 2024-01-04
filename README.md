@@ -12,7 +12,7 @@
   <br>
   👀 I’m interested in LiDAR remote sensing and deep learning techniques
   <br>
-  📫 You can reach me via email (caoyujie@tongji.edu.cn / yc547@cam.ac.uk)
+  📫 You can reach me via email (caoyujie@tongji.edu.cn)
   <br>
 
 
