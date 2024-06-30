@@ -10,7 +10,7 @@
   <br>
   💼 I'm working as a senior algorithm engineer at Didi Global Inc.
   <br>
-  🎓 I graduted from Tongji University in May,2024 with a PhD degree in engineering
+  🎓 I graduted from Tongji University in Mar,2024 with a PhD degree in engineering
   <br>
   🎓 I visited Cambridge University as a joint PhD student from Oct,2022 to Dec,2023
   <br>
