@@ -7,10 +7,12 @@
 <p align="center">
   👋 Hi, I'm @Elephant-C(Yujie Cao)
   <br>
+    <br>
+  💼 I'm working as a senior algorithm engineer at Didi Global.
   <br>
-  🎓 I’m currently a PhD student from Tongji University and a visiting PhD student at Cambridge University
+  🎓 I graduted from Tongji University and visited Cambridge University from Oct 2022 to Dec 2023
   <br>
-  👀 I’m interested in LiDAR remote sensing and deep learning techniques
+  👀 I’m currently interested in theories and techniques in terms of causal inference, multi-task learning as well as LLM
   <br>
   📫 You can reach me via email (caoyujie@tongji.edu.cn)
   <br>
