@@ -8,7 +8,8 @@
   👋 Hi, I'm @Elephant-C(Yujie Cao)
   <br>
     <br>
-  💼 I'm working as a senior algorithm engineer at Didi Global.
+  💼 I'm working as a senior algorithm engineer at Didi Global![image](https://github.com/Elephant-C/Elephant-C/assets/29450176/58c8acf4-4c4d-499b-b521-c4c43968f50b)
+.
   <br>
   🎓 I graduted from Tongji University and visited Cambridge University from Oct 2022 to Dec 2023
   <br>
