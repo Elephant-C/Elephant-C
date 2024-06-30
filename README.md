@@ -9,7 +9,7 @@
   <br>
   💼 I'm working as a senior algorithm engineer at Didi Global
   <br>
-  🎓 I graduted from Tongji University and visited Cambridge University from Oct 2022 to Dec 2023
+  🎓 I graduted from Tongji University with PhD in engineering in May, 2024 and visited Cambridge University from Oct,2022 to Dec,2023
   <br>
   👀 I’m currently interested in theories and techniques in terms of causal inference, multi-task learning as well as LLM
   <br>
